@@ -9,5 +9,5 @@ Random fb Cloning tool
 
     cd Random
 
-    python Rando9.py
+    python Random.py
 
